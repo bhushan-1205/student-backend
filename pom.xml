@@ -25,6 +25,11 @@
 
     <dependencies>
 
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+        </dependency>
+
         <!-- ✅ Web (Correct) -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
